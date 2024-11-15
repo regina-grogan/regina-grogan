@@ -1,4 +1,5 @@
 # 💫 About Me:
+Security by design, shifting security left<<<| I teach computers to speak human, and humans to speak computer | https://www.shiftsecurityleft.co/
 Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I've been to all 50 states<br>Hobbies: skiing, magic the gathering, swimming
 
 ## 🌐 Socials:
