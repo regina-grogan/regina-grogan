@@ -1,6 +1,7 @@
 # 💫 About Me:
 Security by design, shifting security left<<<| I teach computers to speak human, and humans to speak computer | https://www.shiftsecurityleft.co/
-Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I've been to all 50 states<br>Hobbies: skiing, magic the gathering, swimming
+<br>Currently Working on: AWS Security, Python, IAM, Vuln Management
+<br>Fun Fact: I've been to all 50 states<br>Hobbies: skiing, magic the gathering, swimming
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reginagrogan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reginagrogan) 
