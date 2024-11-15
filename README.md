@@ -12,7 +12,5 @@ Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I'
 <li> AWS Cloud </li>
 <li> Identity and Access Management </li>
 <li> Firewalls</li>
----
-[![](https://visitcount.itsvg.in/api?id=regina-grogan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
