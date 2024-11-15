@@ -14,7 +14,7 @@ Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I'
     <th>Security</th>
   </tr>
   <tr>
-    <td>Vulnerability Management/td>
+    <td>Vulnerability Management</td>
     <td>Amazon Web Services</td>
     <td>Identity & Access</td>
   </tr>
