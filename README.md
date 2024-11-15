@@ -1,6 +1,6 @@
 # 💫 About Me:
 Security by design, shifting security left<<<| I teach computers to speak human, and humans to speak computer 
-<b>| https://www.shiftsecurityleft.co/
+<br>| https://www.shiftsecurityleft.co/
 <br>Currently Working on: AWS Security, Python, IAM, Vuln Management
 <br>Fun Fact: I used to live in Melbourne, Australia! 
 <br>Hobbies: skiing, magic the gathering, swimming
