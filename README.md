@@ -14,9 +14,6 @@ Security by design, shifting security left<<<| I teach computers to speak human,
 # 💻 Projects: 
  <table>
   <tr>
-    <th>Security</th>
-  </tr>
-  <tr>
     <td>Vulnerability Management</td>
     <td>Amazon Web Services</td>
     <td>Identity & Access</td>
