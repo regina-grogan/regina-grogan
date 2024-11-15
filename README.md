@@ -23,6 +23,6 @@ Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I'
 # 💻 Certifications:
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Architecting_On_AWS_ReginaRMRMU38WB7B8.pdf">Architecting Solutions on AWS</a></li>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/AWS-security-best-practices.pdf">AWS Security Best Practices</a></li>
-<li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Protecting-your-AWS-instance-with-security-groups.pdf)">AWS Security Groups</a></li>
+<li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Protecting-your-AWS-instance-with-security-groups.pdf)](https://reginaawsbucket.s3.us-east-2.amazonaws.com/Protecting-your-AWS-instance-with-security-groups.pdf">AWS Security Groups</a></li>
 
 
