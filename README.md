@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on: AWS Security, Python, Cloud Security, IAM, Vuln Management<br>Fun Fact: I've been to all 50 states<br>Hobbies: skiing, magic the gathering, swimming
+Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I've been to all 50 states<br>Hobbies: skiing, magic the gathering, swimming
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reginagrogan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reginagrogan) 
