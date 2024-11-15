@@ -19,5 +19,3 @@ Currently Working on: AWS Security, Python, IAM, Vuln Management<br>Fun Fact: I'
     <td>Identity & Access</td>
   </tr>
 </table> 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
