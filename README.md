@@ -22,7 +22,7 @@ Security by design, shifting security left<<<| I teach computers to speak human,
     <td>Identity & Access</td>
   </tr>
   <tr>
-    <td>Security by Design Book</td>
+    <td> < a href="https://www.slideshare.net/slideshow/security-by-design-manual-an-introduction-to-shifting-security-left/272386872">Security by Design Book</td>
     <td>Security by Design Assessment</td>
     <td>Privacy By Design Book</td>
   </tr>
