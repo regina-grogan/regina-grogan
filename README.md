@@ -21,6 +21,11 @@ Security by design, shifting security left<<<| I teach computers to speak human,
     <td>Amazon Web Services</td>
     <td>Identity & Access</td>
   </tr>
+  <tr>
+    <td>Security by Design Book</td>
+    <td>Security by Design Assessment</td>
+    <td>Privacy By Design Book</td>
+  </tr>
 </table> 
 
 # 💻 Certifications:
