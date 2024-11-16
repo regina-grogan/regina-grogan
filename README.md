@@ -32,3 +32,4 @@ Security by design, shifting security left
 <h1>Open Source Security</h1>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Cisco+NSE.pdf](https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Developing_Secure_Software_reginagrogan.pdf](https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Developing_Secure_Software_reginagrogan.pdf">Developing Secure Software Open Source Security Foundation</a></li>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Open_Source_Security_foundation_ReginaGrogan.png">Linux Foundation: Zero Trust Security </a></li>
+<li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Understanding-the-owasp-10-security-threats.png">OWASP Top Ten Security Threat Identification </a></li>
