@@ -30,7 +30,7 @@ Security by design, shifting security left
 
 <h1>Special Tooling</h1>
 <li><a href="https://www.credly.com/badges/d8671769-9eb0-4226-95d1-709a22248786/public_url">Jenkins GitOps</a></li>
-<li><a href="https://media.licdn.com/dms/image/v2/D562DAQFrHbLRHMQahw/profile-treasury-image-shrink_800_800/B56ZTtLNKvGUAY-/0/1739145925943?e=1739844000&v=beta&t=8Mvoqip831Hi1WLYM-NW4-mC8OsYZwL71Im3itgIahQ"></a>Risk-V</li>
+<li><a href="https://media.licdn.com/dms/image/v2/D562DAQFrHbLRHMQahw/profile-treasury-image-shrink_800_800/B56ZTtLNKvGUAY-/0/1739145925943?e=1739844000&v=beta&t=8Mvoqip831Hi1WLYM-NW4-mC8OsYZwL71Im3itgIahQ">Risk-V</a></li>
 <li><a href="https://www.credly.com/badges/4660ccc5-0371-4dcf-8e34-2bb04025264c">Sigstore Supply Chain Security</a></li>
 <li><a href="https://www.jpmorganchase.com/impact/diversity-equity-and-inclusion/women-on-the-move">Women on the Move</a></li>
 
