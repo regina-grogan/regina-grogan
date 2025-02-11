@@ -28,10 +28,16 @@ Security by design, shifting security left
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/AWS+Certified+Cloud+Practitioner+certificate.pdf">AWS Certified Cloud Practitioner</a></li>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/ISO2700-13.pdf">ISO 27000 Internal Auditor</a></li>
 
+<h1>Special Tooling</h1>
+<li><a href="https://www.credly.com/badges/d8671769-9eb0-4226-95d1-709a22248786/public_url">Jenkins GitOps</a></li>
+<li><a href="https://media.licdn.com/dms/image/v2/D562DAQFrHbLRHMQahw/profile-treasury-image-shrink_800_800/B56ZTtLNKvGUAY-/0/1739145925943?e=1739844000&v=beta&t=8Mvoqip831Hi1WLYM-NW4-mC8OsYZwL71Im3itgIahQ"></a>Risk-V</li>
+<li><a href="https://www.credly.com/badges/4660ccc5-0371-4dcf-8e34-2bb04025264c">Sigstore Supply Chain Security</a></li>
+<li><a href="https://www.jpmorganchase.com/impact/diversity-equity-and-inclusion/women-on-the-move">Women on the Move</a></li>
 
 <h1>Network Security</h1>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Cisco+NSE.pdf">CISCO Network Security Engineer Associate</a></li>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina+Marie+Grogan_CIAM-13235_11-17-24_11-30-26.pdf">Identity and Access Management Certification</a></li>
+
 <h1>Open Source Security</h1>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Cisco+NSE.pdf](https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Developing_Secure_Software_reginagrogan.pdf](https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Developing_Secure_Software_reginagrogan.pdf">Developing Secure Software Open Source Security Foundation</a></li>
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/Open_Source_Security_foundation_ReginaGrogan.png">Linux Foundation: Zero Trust Security </a></li>
