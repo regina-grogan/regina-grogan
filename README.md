@@ -29,6 +29,7 @@ Security by design, shifting security left
 <li><a href="https://reginaawsbucket.s3.us-east-2.amazonaws.com/Regina's+Certifications/ISO2700-13.pdf">ISO 27000 Internal Auditor</a></li>
 
 <h1>Special Tooling</h1>
+<li><a href="https://www.credly.com/badges/7a70fa67-6e85-4bdc-821b-3253a6d41dc9/public_url">CompTIA Security+</a></li>
 <li><a href="https://www.credly.com/badges/d8671769-9eb0-4226-95d1-709a22248786/public_url">Jenkins GitOps</a></li>
 <li><a href="https://media.licdn.com/dms/image/v2/D562DAQFrHbLRHMQahw/profile-treasury-image-shrink_800_800/B56ZTtLNKvGUAY-/0/1739145925943?e=1739844000&v=beta&t=8Mvoqip831Hi1WLYM-NW4-mC8OsYZwL71Im3itgIahQ">Risc-V</a></li>
 <li><a href="https://www.credly.com/badges/4660ccc5-0371-4dcf-8e34-2bb04025264c">Sigstore Supply Chain Security</a></li>
